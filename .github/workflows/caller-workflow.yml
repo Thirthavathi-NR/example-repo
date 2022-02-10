@@ -4,7 +4,6 @@ on:
   pull_request:
     branches:
       - main
-
 jobs:
   call-workflow:
     uses: Thirthavathi-NR/example-repo/.github/workflows/workflow-B.yml@v1
