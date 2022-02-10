@@ -7,7 +7,7 @@ on:
 
 jobs:
   call-workflow:
-    uses: .github/workflows/workflow-B.yml@v1
+    uses: Thirthavathi-NR/example-repo/.github/workflows/workflow-B.yml@v1
 
   
   
