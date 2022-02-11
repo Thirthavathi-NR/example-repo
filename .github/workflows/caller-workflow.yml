@@ -6,7 +6,7 @@ on:
       - main
 jobs:
   call-workflow:
-    uses: Thirthavathi-NR/example-repo/.github/workflows/workflow-B.yml@v1
+    uses: Thirthavathi-NR/example-repo/.github/workflows/workflow-B.yml@main
 
   
   
